@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather">Weather</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="validtime">validTime</string>
+    <string name="approvedtime">approvedTime</string>
+    <string name="search">Search</string>
+    <string name="location">Location</string>
+    <string name="favorite">Favorite</string>
+    <string name="save">save</string>
+
+    <string-array name="updateInterval">
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+    </string-array>
+</resources>
