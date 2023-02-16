@@ -5,10 +5,10 @@ The app is built using the Model-View-Controller (MVC) architectural pattern, pr
 
 ## 10-day weather forecast, side navigation, favorite locations
 <p align="center">
-  <img src="weather_forecast.jpg" alt="Example image 1" width="300" height="600" style="display: inline-block;">
+  <img src="weather_forecast.jpg" alt="Example image 1" width="200" height="400" style="display: inline-block;">
   &nbsp;&nbsp;
-  <img src="side_navigation.jpg" alt="Example image 3" width="300" height="600" style="display: inline-block;">
+  <img src="side_navigation.jpg" alt="Example image 3" width="200" height="400" style="display: inline-block;">
   &nbsp;&nbsp;
-  <img src="favorite_locations.jpg" alt="Example image 2" width="300" height="600" style="display: inline-block;">
+  <img src="favorite_locations.jpg" alt="Example image 2" width="200" height="400" style="display: inline-block;">
 </p>
 
