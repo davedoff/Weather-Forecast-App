@@ -3,8 +3,12 @@ This Android app provides users with a 10-day weather forecast for a specified l
 
 The app is built using the Model-View-Controller (MVC) architectural pattern, providing a well-organized structure for the codebase. This approach helps to separate the concerns of the application, making it easier to maintain and modify. Volley was used to handle network requests, allowing for efficient data retrieval from the SMHI Open Data API, which provides weather data in JSON-format.
 
-## 10-day weather forecast
+## 10-day weather forecast, side navigation, favorite locations
+<p align="center">
+  <img src="weather_forecast.jpg" alt="Example image 1" width="300" height="600" style="display: inline-block;">
+  &nbsp;&nbsp;
+  <img src="side_navigation.jpg" alt="Example image 3" width="300" height="600" style="display: inline-block;">
+  &nbsp;&nbsp;
+  <img src="favorite_locations.jpg" alt="Example image 2" width="300" height="600" style="display: inline-block;">
+</p>
 
-## Favorite locations
-
-## Side navigation
